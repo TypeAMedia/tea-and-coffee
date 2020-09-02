@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tea-and-coffee/static/css/main.8167a5f0.chunk.css",
-    "main.js": "/tea-and-coffee/static/js/main.39769154.chunk.js",
-    "main.js.map": "/tea-and-coffee/static/js/main.39769154.chunk.js.map",
+    "main.css": "/tea-and-coffee/static/css/main.421f4eae.chunk.css",
+    "main.js": "/tea-and-coffee/static/js/main.eddb46f1.chunk.js",
+    "main.js.map": "/tea-and-coffee/static/js/main.eddb46f1.chunk.js.map",
     "runtime-main.js": "/tea-and-coffee/static/js/runtime-main.d69d9250.js",
     "runtime-main.js.map": "/tea-and-coffee/static/js/runtime-main.d69d9250.js.map",
-    "static/js/2.fff58312.chunk.js": "/tea-and-coffee/static/js/2.fff58312.chunk.js",
-    "static/js/2.fff58312.chunk.js.map": "/tea-and-coffee/static/js/2.fff58312.chunk.js.map",
+    "static/js/2.1573b5ea.chunk.js": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js",
+    "static/js/2.1573b5ea.chunk.js.map": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js.map",
     "index.html": "/tea-and-coffee/index.html",
-    "precache-manifest.77972fd1babdaa9560f0224264fceb47.js": "/tea-and-coffee/precache-manifest.77972fd1babdaa9560f0224264fceb47.js",
+    "precache-manifest.ab0eaaa8af544b080d0314adb8214bbf.js": "/tea-and-coffee/precache-manifest.ab0eaaa8af544b080d0314adb8214bbf.js",
     "service-worker.js": "/tea-and-coffee/service-worker.js",
-    "static/css/main.8167a5f0.chunk.css.map": "/tea-and-coffee/static/css/main.8167a5f0.chunk.css.map",
-    "static/js/2.fff58312.chunk.js.LICENSE.txt": "/tea-and-coffee/static/js/2.fff58312.chunk.js.LICENSE.txt",
+    "static/css/main.421f4eae.chunk.css.map": "/tea-and-coffee/static/css/main.421f4eae.chunk.css.map",
+    "static/js/2.1573b5ea.chunk.js.LICENSE.txt": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js.LICENSE.txt",
     "static/media/LogoTnC.png": "/tea-and-coffee/static/media/LogoTnC.cd76c452.png",
-    "static/media/App.scss": "/tea-and-coffee/static/media/SectionGraphics.9dcaa121.svg",
+    "static/media/App.scss": "/tea-and-coffee/static/media/SectionGraphics2.087f44c7.svg",
     "static/media/coffeeshop_index2.csv": "/tea-and-coffee/static/media/coffeeshop_index2.f43b14d8.csv",
     "static/media/home.svg": "/tea-and-coffee/static/media/home.373154a0.svg",
     "static/media/icon_costa.svg": "/tea-and-coffee/static/media/icon_costa.282c090d.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d69d9250.js",
-    "static/js/2.fff58312.chunk.js",
-    "static/css/main.8167a5f0.chunk.css",
-    "static/js/main.39769154.chunk.js"
+    "static/js/2.1573b5ea.chunk.js",
+    "static/css/main.421f4eae.chunk.css",
+    "static/js/main.eddb46f1.chunk.js"
   ]
 }
