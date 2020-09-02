@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39c4acbb515ba0788d6e76215e5ef302",
+    "revision": "a9fafb07ad965727ea95202968e50a2c",
     "url": "/tea-and-coffee/index.html"
   },
   {
-    "revision": "20858a6fe3010dfd1819",
-    "url": "/tea-and-coffee/static/css/main.8167a5f0.chunk.css"
+    "revision": "c9d5e07b5898ed682652",
+    "url": "/tea-and-coffee/static/css/main.421f4eae.chunk.css"
   },
   {
-    "revision": "78fb3b6732ada3c32a78",
-    "url": "/tea-and-coffee/static/js/2.fff58312.chunk.js"
+    "revision": "e31c9920b25ba8b3df19",
+    "url": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/tea-and-coffee/static/js/2.fff58312.chunk.js.LICENSE.txt"
+    "url": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20858a6fe3010dfd1819",
-    "url": "/tea-and-coffee/static/js/main.39769154.chunk.js"
+    "revision": "c9d5e07b5898ed682652",
+    "url": "/tea-and-coffee/static/js/main.eddb46f1.chunk.js"
   },
   {
     "revision": "d2df254f9f0da0fabf40",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tea-and-coffee/static/media/LogoTnC.cd76c452.png"
   },
   {
-    "revision": "9dcaa121bd11b938202eb434c3dd88e5",
-    "url": "/tea-and-coffee/static/media/SectionGraphics.9dcaa121.svg"
+    "revision": "087f44c7ffe1192f2e447fcee4f9ebe1",
+    "url": "/tea-and-coffee/static/media/SectionGraphics2.087f44c7.svg"
   },
   {
     "revision": "f43b14d8b084715693a7e0e1966b281d",
