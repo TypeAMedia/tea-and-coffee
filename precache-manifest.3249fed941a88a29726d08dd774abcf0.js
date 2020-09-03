@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05c7b80c5c188feeb95d624c72a111d4",
+    "revision": "c2d2ac2acbaff539fff8c20cba6c054b",
     "url": "/tea-and-coffee/index.html"
   },
   {
-    "revision": "c33d3ac2ec919cf2d0a6",
-    "url": "/tea-and-coffee/static/css/main.371bc79f.chunk.css"
+    "revision": "a54a96e364951ce7417b",
+    "url": "/tea-and-coffee/static/css/main.5d1d3a46.chunk.css"
   },
   {
     "revision": "e31c9920b25ba8b3df19",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c33d3ac2ec919cf2d0a6",
+    "revision": "a54a96e364951ce7417b",
     "url": "/tea-and-coffee/static/js/main.fbf1a6e3.chunk.js"
   },
   {
