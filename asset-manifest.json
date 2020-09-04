@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tea-and-coffee/static/css/main.4d8c46fa.chunk.css",
-    "main.js": "/tea-and-coffee/static/js/main.d6afe311.chunk.js",
-    "main.js.map": "/tea-and-coffee/static/js/main.d6afe311.chunk.js.map",
+    "main.js": "/tea-and-coffee/static/js/main.049d66f1.chunk.js",
+    "main.js.map": "/tea-and-coffee/static/js/main.049d66f1.chunk.js.map",
     "runtime-main.js": "/tea-and-coffee/static/js/runtime-main.d69d9250.js",
     "runtime-main.js.map": "/tea-and-coffee/static/js/runtime-main.d69d9250.js.map",
     "static/js/2.1573b5ea.chunk.js": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js",
     "static/js/2.1573b5ea.chunk.js.map": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js.map",
     "index.html": "/tea-and-coffee/index.html",
-    "precache-manifest.0d0e690a3d8f67b9585b172ee54d1cfe.js": "/tea-and-coffee/precache-manifest.0d0e690a3d8f67b9585b172ee54d1cfe.js",
+    "precache-manifest.e9339524ff9dd429b2bd76fae4c78372.js": "/tea-and-coffee/precache-manifest.e9339524ff9dd429b2bd76fae4c78372.js",
     "service-worker.js": "/tea-and-coffee/service-worker.js",
     "static/css/main.4d8c46fa.chunk.css.map": "/tea-and-coffee/static/css/main.4d8c46fa.chunk.css.map",
     "static/js/2.1573b5ea.chunk.js.LICENSE.txt": "/tea-and-coffee/static/js/2.1573b5ea.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.d69d9250.js",
     "static/js/2.1573b5ea.chunk.js",
     "static/css/main.4d8c46fa.chunk.css",
-    "static/js/main.d6afe311.chunk.js"
+    "static/js/main.049d66f1.chunk.js"
   ]
 }
